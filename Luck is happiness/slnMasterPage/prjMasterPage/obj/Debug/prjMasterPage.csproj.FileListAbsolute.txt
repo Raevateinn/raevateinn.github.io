@@ -1,0 +1,116 @@
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\prjMasterPage.dll.config
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\prjMasterPage.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\prjMasterPage.pdb
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csc.exe
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csc.exe.config
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csc.rsp
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csi.exe
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csi.exe.config
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\csi.rsp
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.AppContext.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Console.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.Compression.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Net.Http.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Net.Sockets.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.ValueTuple.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\vbc.exe
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\vbc.exe.config
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\vbc.rsp
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.csprojAssemblyReference.cache
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.csproj.CopyComplete
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.dll
+C:\ASPNET\ch05\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.pdb
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\prjMasterPage.dll.config
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\prjMasterPage.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\prjMasterPage.pdb
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csc.exe
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csc.exe.config
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csc.rsp
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csi.exe
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csi.exe.config
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\csi.rsp
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.AppContext.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Console.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Globalization.Calendars.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.Compression.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Net.Http.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Net.Sockets.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.ValueTuple.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\vbc.exe
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\vbc.exe.config
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\vbc.rsp
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.csprojAssemblyReference.cache
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.csproj.CopyComplete
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.dll
+C:\ASPNET\Luck is happiness\slnMasterPage\prjMasterPage\obj\Debug\prjMasterPage.pdb
